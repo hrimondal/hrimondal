@@ -11,7 +11,7 @@
 <a href="https://medium.com/@hmondal"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"/></a> 
 <a href="https://reddit.com/user/hmondal"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/></a> 
 <a href="https://youtube.com/@hrimondal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a> 
-
+<br>
 <img src="https://visitcount.itsvg.in/api?id=hrimondal&icon=0&color=0">
 
 <br>
