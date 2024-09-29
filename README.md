@@ -56,10 +56,9 @@ visiting my website: hmondal.wordpress.com ...
 
 <h1 align="center">GitHub Stats</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hrimondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Join Community Badge"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrimondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=hrimondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Join Community Badge"/> <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrimondal&theme=dark&hide_border=false">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrimondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 </div>
