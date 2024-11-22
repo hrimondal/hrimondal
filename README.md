@@ -57,8 +57,6 @@ I’m  H. mondal
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrimondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> <br>
 <img src="https://github-readme-stats.vercel.app/api?username=hrimondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Join Community Badge"/> <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrimondal&theme=dark&hide_border=false">
-
+<img src="https://github.com/hrimondal/hrimondal/blob/output/github-contribution-grid-snake2.svg">
 </div>
-
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
