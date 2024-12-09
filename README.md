@@ -11,7 +11,7 @@
 <a href="https://hrimondal.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Join Community Badge"/></a> 
 <a href="https://reddit.com/user/hmondal"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Join Community Badge"/></a> 
 <a href="https://youtube.com/@hrimondal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Join Community Badge"/></a> 
-<a href="https://stackoverflow.com/users/27158232"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://stackoverflow.com/users/"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
 <br>
 <img src="https://visitcount.itsvg.in/api?id=hrimondal&icon=0&color=0">
 
