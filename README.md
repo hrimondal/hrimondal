@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.com/invite/sp6eXC5BXr"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Join Community Badge"/></a> 
-<a href="https://twitter.com/thehmondal" ><img src="https://img.shields.io/twitter/follow/thehmondal.svg?style=social" /> </a>
+<a href="https://twitter.com/thathrimondal" ><img src="https://img.shields.io/twitter/follow/thehmondal.svg?style=social" /> </a>
 <br>
 <a href="https://instagram.com/hrimondal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a> 
 <a href="https://linkedin.com/in/hrimondal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Join Community Badge"/></a> 
