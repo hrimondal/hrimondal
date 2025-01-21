@@ -4,13 +4,13 @@
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.com/invite/sp6eXC5BXr"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Join Community Badge"/></a> 
-<a href="https://twitter.com/thathrimondal" ><img src="https://img.shields.io/twitter/follow/thehmondal.svg?style=social" /> </a>
+<a href="https://twitter.com/thathrimondal" ><img src="https://img.shields.io/twitter/follow/thathrimondal.svg?style=social" /> </a>
 <br>
 <a href="https://instagram.com/hrimondal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a> 
-<a href="https://linkedin.com/in/hrimondal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Join Community Badge"/></a> 
-<a href="https://hrimondal.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Join Community Badge"/></a> 
+<a href="https://linkedin.com/in/hrimondal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+<a href="https://hrimondal.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Reddit"/></a> 
 <a href="https://reddit.com/user/hrimondal"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Join Community Badge"/></a> 
-<a href="https://youtube.com/@hrimondal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Join Community Badge"/></a> 
+<a href="https://youtube.com/@hrimondal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a> 
 <a href="https://stackoverflow.com/users/28668814/hrimondal"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=hrimondal" alt="visitcount" />
