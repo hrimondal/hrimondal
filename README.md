@@ -13,8 +13,7 @@
 <a href="https://youtube.com/@hrimondal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a> 
 <a href="https://stackoverflow.com/users/28668814/hrimondal"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
 <br>
-<img src="https://komarev.com/ghpvc/?username=hrimondal" alt="visitcount" />
-<a href="https://visitcountpro.netlify.app"><p align="right"><img src="https://visitcountpro.netlify.app/api?id=hrimondal&label=Profile%20Views&color=0&icon=1&pretty=true"></p></a>
+<a href="https://visitcountpro.netlify.app"><p align="center"><img src="https://visitcountpro.netlify.app/api?id=hrimondal&label=Profile%20Views&color=0&icon=1&pretty=true"></p></a>
 
 <br>
 
