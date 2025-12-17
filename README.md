@@ -1,6 +1,6 @@
-<h1 align="center">About a Human </h1>
+<h1>About a Human </h1>
 
-<div align="center">
+<div>
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.com/invite/sp6eXC5BXr"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Join Community Badge"/></a> 
