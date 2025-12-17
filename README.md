@@ -1,2 +1,3 @@
-Yoo!! 
-I'm Hrittick.
+### _Yoo!!_ 💫  
+I'm [Hrittick](https://hrittick.vercel.app/).  
+am a philo**MATH** and **TECH**savvy
